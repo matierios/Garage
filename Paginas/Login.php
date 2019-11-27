@@ -3,7 +3,7 @@
 
 <title>LOGIN</title>
 
-<?php include('..\Headers\Header.php'); ?>
+<?php include('../Headers/Header.php'); ?>
   </head>
 
   <body>
